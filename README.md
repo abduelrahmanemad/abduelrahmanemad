@@ -6,5 +6,5 @@ A passionate flutter developer from Egypt
 
 ---
 
-- LinkedIn - [@abdulrahman-masoud](https://www.linkedin.com/in/abdulrahman-masoud-a73504234/)
+- LinkedIn - [@abdulrahman-emad](https://www.linkedin.com/in/abdulrahman-emad-a73504234/)
 - Mail - [abduelrahmanemad](mailto:abduelrahmanemad@gmail.com)
