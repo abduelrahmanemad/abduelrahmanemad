@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Abdulrahman Emad
 
-A passionate flutter developer from Egypt
+I'm an Undergraduate Student at Faculty of Engineering || Cairo University
 
 ### How to reach me 
 
