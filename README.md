@@ -1,4 +1,4 @@
-## Hi 👋, I'm Abdulrahman Emad
+## Hi 👋, I'm Abdulrahman Masoud
 
 I'm an Undergraduate Student at Faculty of Engineering || Cairo University
 
@@ -6,5 +6,5 @@ I'm an Undergraduate Student at Faculty of Engineering || Cairo University
 
 ---
 
-- LinkedIn - [@abdulrahman-emad](https://www.linkedin.com/in/abdulrahman-emad-a73504234/)
+- LinkedIn - [@abdulrahman-masoud](https://www.linkedin.com/in/abduerahman-masoud)
 - Mail - [abduelrahmanemad](mailto:abduelrahmanemad@gmail.com)
